@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 const Hero = () => {
   return (
-    <div className="bg-[url()] lg:bg-[url(/banner_bg.jpg)] min-h-screen bg-cover">
+    <div className=" lg:bg-[url(/banner_bg.jpg)] min-h-screen bg-cover">
       <Navbar />
       <div className="container grid lg:grid-cols-2 h-[calc(100vh-60px)]">
         <div className="hidden lg:block"></div>
